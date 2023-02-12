@@ -6,6 +6,7 @@
 </listeners>
   <test name="Test">
     <classes>
+    <parameter name="JVM" value="Report"></parameter>
       <class name="org.hcl.A"/>
       <class name="org.hcl."B/>
     </classes>
