@@ -17,6 +17,8 @@ public class Employee2 {
 		System.out.println("After : "+a);
 		System.out.println("After : "+b);
 		
+		int = 40;
+		
 	} 
 	
 }
